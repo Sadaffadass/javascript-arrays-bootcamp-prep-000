@@ -8,6 +8,6 @@ var addElementToBeginningOfArray = [
   "element",
   'array'
   ];
-  ["foo",
-  ...addElementToBeginningOfArray];
+  [...addElementToBeginningOfArray,
+  "foo"];
   
